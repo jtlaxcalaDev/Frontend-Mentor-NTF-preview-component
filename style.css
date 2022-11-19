@@ -19,10 +19,11 @@ body {
 }
 
 .eth--card {
-  width: 300px;
+  width: 310px;
   background-color: var(--neutral-blue-card);
-  padding: 1.4rem;
+  padding: 1.6rem;
   border-radius: 10px;
+  box-shadow: 0px 0px 50px -30px black;
 }
 
 .card--header {
